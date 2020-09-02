@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sn.commerce.config.WebConfigurerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.57 s - in sn.commerce.config.WebConfigurerTest

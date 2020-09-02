@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sn.commerce.web.rest.errors.ExceptionTranslatorIT
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.766 s - in sn.commerce.web.rest.errors.ExceptionTranslatorIT

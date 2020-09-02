@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sn.commerce.web.rest.UserResourceIT
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.99 s - in sn.commerce.web.rest.UserResourceIT

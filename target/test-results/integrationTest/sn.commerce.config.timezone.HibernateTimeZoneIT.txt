@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sn.commerce.config.timezone.HibernateTimeZoneIT
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.691 s - in sn.commerce.config.timezone.HibernateTimeZoneIT
